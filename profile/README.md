@@ -5,7 +5,8 @@ Research group in data-driven fluid mechanics led by [Luca Magri](https://magril
 - [x] [ESN-MFE](https://github.com/MagriLab/ESN-MFE) - Control and prediction of turbulent shear flow (Moehlis-Faisst-Eckhardt) with Echo State Networks.
 <br> *Prediction and control of turbulent shear flow with Echo State Networks*. A. Racca and L. Magri, <br> *Lecture Notes in Computer Science (2022); Physical Review Fluids (2022).*
 
-
+### **Workshops**
+- [x] [NewtonWorkshop2023](https://github.com/MagriLab/NewtonWorkshop2023) - Demonstration of super resolution and thermoacoustic neural networks created for the Newton Institute Tutorial 2023.
 
 ### **Install and Run**
 - [x] [KolSol](https://github.com/MagriLab/KolSol) - pseudospectral Kolmogorov flow solver, contains both NumPy and PyTorch implementations to allow for autograd-compatible workflows. 
