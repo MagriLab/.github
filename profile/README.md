@@ -14,6 +14,12 @@ Research group in data-driven fluid mechanics led by [Luca Magri](https://magril
 <br> *Physics-Informed Convolutional Neural Networks for Corruption Removal on Dynamical Systems*. D. Kelshaw and L. Magri, 
 <br> *NeurIPS Workshop on Machine Learning for the Physical Sciences (2022).*
 
+- [x] [rBA-EnKF](https://github.com/MagriLab/rBA-EnKF) - Regularized bias-aware ensemble Kalman filter.
+<br> *Real-time thermoacoustic data assimilation*. A.Nóvoa and L. Magri, [Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.653)(2022).
+<br> *Inferring unknown unknowns: Regularized bias-aware ensemble Kalman filter*. A.Nóvoa, A. Racca and L. Magri, [Computer Methods in Applied Mechanics and Engineering](https://doi.org/10.1016/j.cma.2023.116502)(2023).
+
+
+
 ### **Workshops**
 - [x] [VKI-ULB lecture series](https://github.com/MagriLab/Tutorials) - Demonstration of echo state network (ESN) and long short-term memory network (LSTM) created for the VKI lecture series: Machine Learning for Fluid Mechanics 2024.
 - [x] [NewtonWorkshop2023](https://github.com/MagriLab/NewtonWorkshop2023) - Demonstration of super resolution and thermoacoustic neural networks created for the Newton Institute Tutorial 2023.
