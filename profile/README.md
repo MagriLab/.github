@@ -13,6 +13,11 @@ Research group in data-driven fluid mechanics led by [Luca Magri](https://magril
 - [x] [PICR](https://github.com/MagriLab/PICR) - Physics-Informed Corruption Removal.
 <br> *Physics-Informed Convolutional Neural Networks for Corruption Removal on Dynamical Systems*. D. Kelshaw and L. Magri, 
 <br> *NeurIPS Workshop on Machine Learning for the Physical Sciences (2022).*
+- [x] [HCTA](https://github.com/MagriLab/HCTA) - Hard-constrained neural networks for thermoacoustics.
+<br> *Hard-constrained neural networks for modeling nonlinear acoustics*. D.E. Ozan and L. Magri, *[Physical Review Fluids](https://doi.org/10.1103/PhysRevFluids.8.103201) (2023).*
+- [x] [Adjoint-ESN](https://github.com/MagriLab/Adjoint-ESN) - Data-driven inference of adjoint sensitivities.
+<br> *Adjoint Sensitivities of Chaotic Flows without Adjoint Solvers: A Data-Driven Approach*.  D.E. Ozan and L. Magri, *[Lecture Notes in Computer Science](https://doi.org/10.1007/978-3-031-63775-9_25) (2024)*;
+<br> *Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics*. D.E. Ozan and L. Magri, *[Physical Review Fluids](https://doi.org/10.1103/PhysRevFluids.9.103902) (2024).*
 
 ### **Workshops**
 - [x] [VKI-ULB lecture series](https://github.com/MagriLab/Tutorials) - Demonstration of echo state network (ESN) and long short-term memory network (LSTM) created for the VKI lecture series: Machine Learning for Fluid Mechanics 2024.
